@@ -1,4 +1,4 @@
-# IntercityNetwork | Errores de Sincronizacion Outlook365 ![#F2F7EC](https://w2.intercity.cl/wp-content/uploads/2023/07/logo-intercity-desktop-blanco.png) `#F2F7EC`
+# IntercityNetwork | Errores de Sincronizacion Outlook365 ![Logo - IntercityNetwork](https://w2.intercity.cl/wp-content/uploads/2023/07/logo-intercity-desktop-blanco.png)
 
 Desde el presente, se integran distintas soluciones para la sincronizacion el cliente Outlook **hosteados en Intercity**
 1) crear un nuevo perfil en el usuario afectado.
