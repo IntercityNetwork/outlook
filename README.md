@@ -1,6 +1,15 @@
 # IntercityNetwork | Errores de Sincronizacion Outlook365 ![Logo - IntercityNetwork](https://w2.intercity.cl/wp-content/uploads/2023/07/logo-intercity-desktop-blanco.png)
 
-Desde el presente, se integran distintas soluciones para la sincronizacion el cliente Outlook **hosteados en Intercity**
+Microsoft genero cambios del motodo de autenticacion entregando mas seguridad para conectar a su plataformas de Microsoft 365.-
+Este cambio significo que todos los servicios **Hosteados On-Premises** en la actualidad tengan que generar cambios adicionales para sincronizacion desde el aplicativo de Outlook 365, aqui entregamos la configuracion para que puedas registrar a tus servicio Hosteados de forma local sin inconvenientes.
+
+**Descarga el asistente para soporte y recuperacion de Microsoft SARA**
+enlace de descarga: aka.ms/sara
+- Este asistente nos ayudara a entender de forma detalla el estado actual del servicio, favor descargar e instalar con permisos de administrador.
+> [!IMPORTANT]
+> Este procedimiento debe ser aplicado una vez ya instalado el programa SARA.
+
+CONFIGURACION MANUAL CLIENTE EXCHANGE ONPREMISES INTERCITY 
 1) crear un nuevo perfil en el usuario afectado.
 2) registrar de forma manual con los siguientes opciones en el proceso.
    
