@@ -1,0 +1,11 @@
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\AutoDiscover]
+"ExcludeExplicitO365Endpoint"=dword:00000001
+"ExcludeScpLookup"=dword:00000001
+"ExcludeHttpsAutoDiscoverDomain"=dword:00000001
+"ExcludeHttpsRootDomain"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\office\16.0\outlook\autodiscover]
+"ExcludeExplicitO365Endpoint"=dword:00000001
+"ExcludeScpLookup"=dword:00000001
+"ExcludeHttpsAutoDiscoverDomain"=dword:00000001
+"ExcludeHttpsRootDomain"=dword:00000001
