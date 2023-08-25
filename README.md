@@ -22,5 +22,5 @@ CONFIGURACION MANUAL CLIENTE EXCHANGE ONPREMISES INTERCITY
 - Seguridad: AutoSSL
 
 De no generar cambios en la configuracion del cliente, favor considerar los siguientes:
--ejecutar el script en la carpeta regedit/autodiscover365.reg
- - cuando se ejecute este, vamos a limpiar los registros preconfigurados en el sistema operativo, luego cerrar y abrir nuevamente la aplicacion para confirmar estado del servicio.
+- Ejecutar el script en la carpeta regedit/autodiscover365.reg
+- Cuando se ejecute este, vamos a limpiar los registros preconfigurados en el sistema operativo, luego cerrar y abrir nuevamente la aplicacion para confirmar estado del servicio.
