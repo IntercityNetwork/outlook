@@ -1,4 +1,4 @@
-# IntercityNetwork | Errores de Sincronizacion Outlook365 ![Logo - IntercityNetwork](https://w2.intercity.cl/wp-content/uploads/2023/07/logo-intercity-desktop-blanco.png)
+# IntercityNetwork | Errores de Sincronizacion Outlook365 ![Logo - IntercityNetwork](https://github.com/intercitynetwork.png)
 
 Microsoft genero cambios del motodo de autenticacion entregando mas seguridad para conectar a su plataformas de Microsoft 365.-
 Este cambio significo que todos los servicios **Hosteados On-Premises** en la actualidad tengan que generar cambios adicionales para sincronizacion desde el aplicativo de Outlook 365, aqui entregamos la configuracion para que puedas registrar a tus servicio Hosteados de forma local sin inconvenientes.
