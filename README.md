@@ -4,7 +4,7 @@ Microsoft genero cambios del motodo de autenticacion entregando mas seguridad pa
 Este cambio significo que todos los servicios **Hosteados On-Premises** en la actualidad tengan que generar cambios adicionales para sincronizacion desde el aplicativo de Outlook 365, aqui entregamos la configuracion para que puedas registrar a tus servicio Hosteados de forma local sin inconvenientes.
 
 **Descarga el asistente para soporte y recuperacion de Microsoft SARA**
-[Enlace de descarga:](https://aka.ms/sara)
+[Enlace de descarga](https://aka.ms/sara)
 - Este asistente nos ayudara a entender de forma detalla el estado actual del servicio, favor descargar e instalar con permisos de administrador.
 > [!IMPORTANT]
 > Este procedimiento debe ser aplicado una vez ya instalado el programa SARA.
