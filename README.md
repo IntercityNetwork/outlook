@@ -1,6 +1,6 @@
 # Intercity | Errores de Sincronizacion Outlook365 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://w2.intercity.cl/wp-content/uploads/2023/07/logo-intercity-desktop-blanco.png">
+  <source media="(prefers-color-scheme: #gh-dark-mode-only)" srcset="https://w2.intercity.cl/wp-content/uploads/2023/07/logo-intercity-desktop-blanco.png">
 </picture>
 
 Desde el presente, se integran distintas soluciones para la sincronizacion el cliente Outlook **hosteados en Intercity**
